@@ -1,10 +1,10 @@
 {
   "name": "projeto-backend01",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rode estes comandos para preparar o ambiete.\r npm init -y\r npm i -D typescript @types/node tsx\r npx tsc --init\r Rode estes comandos para preparar o framework Express:\r npm install express\r npm install -D @types/express\r crie uma pasta e o arquivo .ts: src/app.ts",
   "main": "index.js",
   "scripts": {
-    "dev":"tsx watch src/app.ts"
+    "dev": "tsx watch src/app.ts"
   },
   "repository": {
     "type": "git",
